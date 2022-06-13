@@ -242,9 +242,15 @@ body {
   width: 268px;
   -webkit-border-radius: 35px;
   -moz-border-radius: 35px;
+  transition: all 0.3s ease;
   border-radius: 35px;
   background: #eef1f4;
   margin-left: -129px;
+}
+.rectangle-2-holder:hover {
+  background-color: #808080;
+  transform: rotate(360deg);
+  transform: scale(1.01);
 }
 .text-4 {
   color: #000000;
@@ -385,11 +391,17 @@ body {
   position: absolute;
   top: 232px;
   width: 230px;
+  transition: all 0.3s ease;
   -webkit-border-radius: 30.15px;
   -moz-border-radius: 30.15px;
   border-radius: 30.15px;
   background: #e9ecee;
   margin-left: -113px;
+}
+.rectangle-5-holder:hover {
+  background-color: #808080;
+  transform: rotate(360deg);
+  transform: scale(1.01);
 }
 .text-9 {
   color: #3c3d42;
@@ -450,11 +462,17 @@ body {
   position: absolute;
   top: 261px;
   width: 230px;
+  transition: all 0.3s ease;
   -webkit-border-radius: 30.15px;
   -moz-border-radius: 30.15px;
   border-radius: 30.15px;
   background: #e9ecee;
   margin-left: -107px;
+}
+.rectangle-5-copy-holder:hover {
+  background-color: #808080;
+  transform: rotate(360deg);
+  transform: scale(1.01);
 }
 .text-10 {
   color: #3c3d42;
@@ -525,11 +543,17 @@ body {
   position: absolute;
   top: 261px;
   width: 230px;
+  transition: all 0.3s ease;
   -webkit-border-radius: 30.15px;
   -moz-border-radius: 30.15px;
   border-radius: 30.15px;
   background: #e9ecee;
   margin-left: -109px;
+}
+.rectangle-5-copy-2-holder:hover {
+  background-color: #808080;
+  transform: rotate(360deg);
+  transform: scale(1.01);
 }
 .text-12 {
   color: #3c3d42;
@@ -615,11 +639,17 @@ body {
   position: absolute;
   top: 266px;
   width: 230px;
+  transition: all 0.3s ease;
   -webkit-border-radius: 30.15px;
   -moz-border-radius: 30.15px;
   border-radius: 30.15px;
   background: #e9ecee;
   margin-left: -115px;
+}
+.rectangle-5-copy-3-holder:hover {
+  background-color: #808080;
+  transform: rotate(360deg);
+  transform: scale(1.01);
 }
 .text-14 {
   color: #3c3d42;
@@ -690,11 +720,17 @@ body {
   position: absolute;
   top: 266px;
   width: 230px;
+  transition: all 0.3s ease;
   -webkit-border-radius: 30.15px;
   -moz-border-radius: 30.15px;
   border-radius: 30.15px;
   background: #e9ecee;
   margin-left: -128px;
+}
+.rectangle-5-copy-4-holder:hover {
+  background-color: #808080;
+  transform: rotate(360deg);
+  transform: scale(1.01);
 }
 .text-16 {
   color: #3c3d42;
@@ -740,11 +776,17 @@ body {
   position: absolute;
   top: 8px;
   width: 230px;
+  transition: all 0.3s ease;
   -webkit-border-radius: 30.15px;
   -moz-border-radius: 30.15px;
   border-radius: 30.15px;
   background: #e9ecee;
   margin-left: -110px;
+}
+.rectangle-5-copy-5-holder:hover {
+  background-color: #808080;
+  transform: rotate(360deg);
+  transform: scale(1.01);
 }
 .text-18 {
   color: #3c3d42;
@@ -803,11 +845,17 @@ body {
   position: absolute;
   top: 266px;
   width: 230px;
+  transition: all 0.3s ease;
   -webkit-border-radius: 30.15px;
   -moz-border-radius: 30.15px;
   border-radius: 30.15px;
   background: #e9ecee;
   margin-left: -101px;
+}
+.rectangle-5-copy-6-holder:hover {
+  background-color: #808080;
+  transform: rotate(360deg);
+  transform: scale(1.01);
 }
 .text-19 {
   color: #3c3d42;
@@ -910,11 +958,17 @@ body {
   position: absolute;
   top: 651px;
   width: 290px;
+  transition: all 0.3s ease;
   -webkit-border-radius: 35px;
   -moz-border-radius: 35px;
   border-radius: 35px;
   background: #eef1f4;
   margin-left: 203px;
+}
+.rectangle-2-copy-holder:hover {
+  background-color: #808080;
+  transform: rotate(360deg);
+  transform: scale(1.01);
 }
 .text-22 {
   color: #000000;
